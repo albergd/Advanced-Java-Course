@@ -8,7 +8,7 @@ public class Questions {
 	public static void SayName(){
 		//String name;
 		Scanner in = new Scanner(System.in);
-		System.out.print("Enter your name:");
+		System.out.print("Enter your first name:");
 		String name = in.nextLine();
 		in.close();
 		System.out.println("Your name is:" + name +".");		
