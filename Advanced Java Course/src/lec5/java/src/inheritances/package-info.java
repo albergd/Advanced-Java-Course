@@ -5,4 +5,4 @@
  * @author dimitria
  *
  */
-package lec4.java.src.inheritances;
+package lec5.java.src.inheritances;
